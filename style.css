@@ -1,0 +1,10 @@
+#table{
+    border-top: 2px groove;
+    padding-top: 25px;
+}
+thead{
+    background-color: darkblue;
+}
+tbody{
+    background-color: black;
+}
